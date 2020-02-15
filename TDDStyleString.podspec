@@ -2,10 +2,10 @@ Pod::Spec.new do |s|
   s.name                      = "TDDStyleString"
   s.version                   = "1.0.0"
   s.summary                   = "TDDStyleString"
-  s.homepage                  = "https://github.com/SvenTiigi/MyAwesomeKit"
+  s.homepage                  = "https://github.com/iOSTDDClub/TDDStyleString"
   s.license                   = { :type => "MIT", :file => "LICENSE" }
   s.author                    = { "SvenTiigi" => "kimtaesoo188@gmail.com" }
-  s.source                    = { :git => "https://github.com/SvenTiigi/MyAwesomeKit.git", :tag => s.version.to_s }
+  s.source                    = { :git => "https://github.com/iOSTDDClub/TDDStyleString.git", :tag => s.version.to_s }
   s.swift_version             = "5.1"
   s.ios.deployment_target     = "8.0"
   s.tvos.deployment_target    = "9.0"

@@ -52,7 +52,7 @@ pod 'TDDStyleString'
 To integrate TDDStyleString into your Xcode project using Carthage, specify it in your `Cartfile`:
 
 ```ogdl
-github "SvenTiigi/TDDStyleString"
+github "iOSTDDClub/TDDStyleString"
 ```
 
 Run `carthage update` to build the framework and drag the built `TDDStyleString.framework` into your Xcode project. 
@@ -65,7 +65,7 @@ To integrate using Apple's [Swift Package Manager](https://swift.org/package-man
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/SvenTiigi/MyAwesomeKit.git", from: "1.0.0")
+    .package(url: "https://github.com/iOSTDDClub/TDDStyleString.git", from: "1.0.0")
 ]
 ```
 
