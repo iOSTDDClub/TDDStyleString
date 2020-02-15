@@ -1,0 +1,7 @@
+# TDDStyleString document generator jazzy settings
+
+copyright: Copyright 2020 iOSTDDClub
+author: SvenTiigi
+xcodebuild_arguments: [-target, TDDStyleString-iOS]
+clean: true
+output: ./Documentation
